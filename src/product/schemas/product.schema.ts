@@ -13,5 +13,3 @@ export const ProductSchema = new Schema({
         default: Date.now
     }
 });
-
-
